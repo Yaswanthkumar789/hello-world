@@ -16,6 +16,8 @@
     <label for="email"><b>email</b></label>
     <input type="email" placeholder="Enter email" name="email" required>
 
+       <label for="email"><b>email</b></label>
+    <input type="email" placeholder="Enter email" name="Branch" required>
   
     <button type="submit">Login</button>
     <label>
